@@ -1,2 +1,4 @@
-# github-aprendizaje
-Prueba de repositorio
+# Aprendizaje en GitHub
+Aprendiendo a usar GitHub
+
+
